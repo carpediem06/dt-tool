@@ -1,2 +1,3 @@
 # dt-tool
-Device tree tool
+
+To convert dts to dtb
