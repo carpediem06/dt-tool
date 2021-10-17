@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# File: dts2dtb.sh
+#
 
 INDIR=dts
 OUTDIR=dtb
